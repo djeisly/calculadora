@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  background-color: rgb(240, 216, 220);
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  box-sizing: border-box;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+label{
+  margin-top: 15px;
+}
+
+span{
+  margin-top: 15px;
+}
+
+a{
+  margin-top: 25px;
+}
+
+button{
+  background-color: rgb(176, 60, 187);
+  border: 1px solid transparent;
+  padding: 5px 25px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+img{
+  width: 30%;
+  align-items: center;
+}
